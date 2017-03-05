@@ -1,13 +1,12 @@
-# Basic Project
-## Basic Project Structure
+# Fundamentals Project
+## Fundamental Concepts
 
-Default Structure for A Basic Project
+*Java application to cover core fundamental concepts.*
 
-*Java 7*
+*Java 8*
 
 * Maven
-* Log4j
-* TestNG
+* JUnit 4
 
 Java Project for SQA Boot Camp Program. 
 
